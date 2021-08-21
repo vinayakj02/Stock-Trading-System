@@ -5,7 +5,7 @@ Course Instructor : Dr. Sidney  Rosario, IT Dept, NITK
 
 The project is about a stock trading system in which users can trade and analyze in the stock market using real time data. The system keeps track of all trades by the user and lets them review and analyze  their portfolio. New users can create new accounts to trade with. The system helps the user in learning about the stock market and how it performs . Users can safely trade and explore the stock market in the simulation.  This project includes various modules and features to add, edit, view and delete stock-management-related things in the system database.
 
-###How to use?
+### How to use?
 *USERDATA.json* and *UserAccount_data.json* are outside the *src* folder. We are using org.
 json.jar library , it is in the *lib* folder. To start the program , run ***PossibleMain2.
 java*** . There are 16 .java files in the project. Some outputs are displayed in the 
