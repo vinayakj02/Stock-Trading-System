@@ -1,29 +1,18 @@
-# IT-150 Project
-Course Instructor : Dr. Sidney  Rosario, IT Dept, NITK
-
 # Stock Trading System
+The project is about a stock trading system in which users can trade and analyze in the stock market using real time data. 
 
-The project is about a stock trading system in which users can trade and analyze in the stock market using real time data. The system keeps track of all trades by the user and lets them review and analyze  their portfolio. New users can create new accounts to trade with. The system helps the user in learning about the stock market and how it performs . Users can safely trade and explore the stock market in the simulation.  This project includes various modules and features to add, edit, view and delete stock-management-related things in the system database.
+## Getting Started
+*USERDATA.json* and *UserAccount_data.json* store the user's data . **org.json.jar** library is also used .  To start the program , run ***Main.java*** . Some outputs are displayed in the  terminal. An internet connection is required.
 
-### How to use?
-*USERDATA.json* and *UserAccount_data.json* are outside the *src* folder. We are using org.
-json.jar library , it is in the *lib* folder. To start the program , run ***PossibleMain2.
-java*** . There are 16 .java files in the project. Some outputs are displayed in the 
-terminal. Please be connected to the net while running our project. Also note that the 
-closing of one GUI window might close all the others. Hence please minimise the windows 
-instead of closing them. Since the stock prices of the previous day is used, the date of 
-transaction would be considered as the previous day.
+## Demo
+Upon running **Main.java** this window will appear , 
+![First page](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/firstpage.PNG)
 
+User can can create an account or log in. On clicking Create Account , this window appears , ![Create Account ](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/createaccount.PNG)
 
+On creating an account a unique User Id is generated and displayed . ![User ID](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/userid.PNG)
 
-## Group 6
+Following this a window appears where you can access all the features of the project,
+![enter image description here](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/welcomepage.PNG)
 
-### Members :
-
-- Pranav RS                -  201IT143
-- Rakshith Jain            - 201IT147
-- Satish Nikhil            - 201IT255
-- Vinayak Vatsalya J   - 201IT266
-
----
-
+This project was part of the course IT-150 . 
