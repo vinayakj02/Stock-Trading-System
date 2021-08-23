@@ -6,13 +6,18 @@ The project is about a stock trading system in which users can trade and analyze
 
 ## Demo
 Upon running **Main.java** this window will appear , 
+
 ![First page](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/firstpage.PNG)
 
-User can can create an account or log in. On clicking Create Account , this window appears , ![Create Account ](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/createaccount.PNG)
+User can can create an account or log in. On clicking Create Account , this window appears ,  
 
-On creating an account a unique User Id is generated and displayed . ![User ID](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/userid.PNG)
+![Create Account ](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/createaccount.PNG)
+
+On creating an account a unique User Id is generated and displayed . 
+
+![User ID](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/userid.PNG)
 
 Following this a window appears where you can access all the features of the project,
-![enter image description here](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/welcomepage.PNG)
+![Welcome Window](https://github.com/vinayakj02/IT-150-Project-Stock-Trading-System/blob/main/imgs/welcomepage.PNG)
 
 This project was part of the course IT-150 . 
